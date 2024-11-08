@@ -6,3 +6,5 @@
 # After every test
  - Remove resource group
  - Remove tester from Technical tester group
+ - Remove local directly with code etc.
+ - Remove chatGPT history
